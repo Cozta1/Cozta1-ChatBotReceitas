@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ChefBot 🍳</title>
+    <style>
+        body {
+            font-family: Arial;
+            background: #f5f5f5;
+        }
+        #chat {
+            width: 400px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .msg {
+            margin: 10px 0;
+        }
+        .user {
+            text-align: right;
+            color: blue;
+        }
+        .bot {
+            text-align: left;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chat">
+    <h2>ChefBot</h2>
+
+    <div id="messages"></div>
+
+    <input type="text" id="msg" placeholder="Digite algo...">
+    <button onclick="enviar()">Enviar</button>
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
