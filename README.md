@@ -45,8 +45,8 @@ Com base na intenção identificada, o sistema realiza buscas nas receitas cadas
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/Cozta1/Cozta1-ChatBotReceitas.git
-cd Cozta1-ChatBotReceitas
+git clone https://github.com/Cozta1/ChatBotReceitas.git
+cd ChatBotReceitas
 ```
 
 ### 2. Criar ambiente virtual
