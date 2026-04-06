@@ -111,9 +111,9 @@ projeto/
 ## 👥 Integrantes
 
 * Gabriel Krepker
-* GABRIELMONT1
+* Gabriel Monteiro
 * Gustavo Lopes
-* João Costa
+* João Victor da Costa
 * Rafael Lima Henriques
 
 ---
